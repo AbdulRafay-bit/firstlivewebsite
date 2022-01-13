@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firstlivewebsite/static/css/main.e6c13ad2.css",
+    "main.js": "/firstlivewebsite/static/js/main.e599d175.js",
+    "index.html": "/firstlivewebsite/index.html",
+    "main.e6c13ad2.css.map": "/firstlivewebsite/static/css/main.e6c13ad2.css.map",
+    "main.e599d175.js.map": "/firstlivewebsite/static/js/main.e599d175.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e599d175.js"
+  ]
+}
